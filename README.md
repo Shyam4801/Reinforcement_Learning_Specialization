@@ -1,6 +1,11 @@
 # Reinforcement Learning
 
 **[Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)**
+    The Reinforcement Learning Specialization consists of 4 courses
+exploring the power of adaptive learning systems and artificial
+intelligence (AI). In this specialization, learners were taught to: Build a Reinforcement Learning system for sequential decision making; understand the space of Reinforcement Learning algorithms
+(Temporal- Difference learning, Monte Carlo, Sarsa, Q-learning, Policy Gradients, Dyna, and more); understand how to formalize a task as a Reinforcement Learning problem, and how to begin implementing a solution; understand how RL fits under the broader umbrella of machine learning. This learner is now prepared to take more advanced courses in AI or apply AI tools to real world problems.
+
 + **[Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)**
   + [Course Objectives](https://github.com/Shyam4801/Reinforcement_Learning_Specialization/blob/main/Fundamentals%20of%20Reinforcement%20Learning/Fundamentals%20of%20Reinforcement%20Learning_Learning%20Objectives.pdf)
   + Week 1
