@@ -4,7 +4,7 @@
     The Reinforcement Learning Specialization consists of 4 courses
 exploring the power of adaptive learning systems and artificial
 intelligence (AI). In this specialization, learners were taught to: Build a Reinforcement Learning system for sequential decision making; understand the space of Reinforcement Learning algorithms
-(Temporal- Difference learning, Monte Carlo, Sarsa, Q-learning, Policy Gradients, Dyna, and more); understand how to formalize a task as a Reinforcement Learning problem, and how to begin implementing a solution; understand how RL fits under the broader umbrella of machine learning. This learner is now prepared to take more advanced courses in AI or apply AI tools to real world problems.
+(Temporal- Difference learning, Monte Carlo, Sarsa, Q-learning, Policy Gradients, Dyna, and more); understand how to formalize a task as a Reinforcement Learning problem, and how to begin implementing a solution; understand how RL fits under the broader umbrella of machine learning.
 
 + **[Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)**
   + [Course Objectives](https://github.com/Shyam4801/Reinforcement_Learning_Specialization/blob/main/Fundamentals%20of%20Reinforcement%20Learning/Fundamentals%20of%20Reinforcement%20Learning_Learning%20Objectives.pdf)
@@ -47,6 +47,7 @@ intelligence (AI). In this specialization, learners were taught to: Build a Rein
     + [Notebook: MoonShot Technologies](https://github.com/Shyam4801/Reinforcement_Learning_Specialization/blob/main/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Week%202/Notebook_%20MoonShot%20Technologies/Assignment1-v2.ipynb)
   + Week 3
     + [Quiz: Choosing the Right Algorithm]
+    + [Algorithm Map](https://github.com/Shyam4801/Reinforcement_Learning_Specialization/blob/main/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Algorithm_map.pdf)
   + Week 4
     + [Quiz: Impact of Parameter Choices in RL]
   + Week 5
